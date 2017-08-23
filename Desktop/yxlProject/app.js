@@ -7,7 +7,7 @@ var app = express();
 // app.set('views', './view/pages');
 // app.set('view engine', 'jade');
 
-
+//新的下载地址
 // app.locals.moment = require('moment');
 // // mongoose.connect('mongodb://localhost:27017/imooc'); // 连接mongodb本地数据库imovie
 // console.log('MongoDB connection success!');
